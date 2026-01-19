@@ -194,7 +194,3 @@ npm start
 
 ---
 
-## 📧 Contact
-
-Created by [Prakash] — A full-stack developer passionate about healthcare tech.  
-Feel free to connect on [LinkedIn] or contribute via pull requests.
